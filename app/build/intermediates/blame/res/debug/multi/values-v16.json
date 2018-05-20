@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

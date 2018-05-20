@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Yottabyte\\.android\\build-cache\\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

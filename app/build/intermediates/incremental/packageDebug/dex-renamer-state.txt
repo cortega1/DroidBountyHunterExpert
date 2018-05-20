@@ -1,0 +1,7 @@
+#Sun May 20 14:42:58 CDT 2018
+base.0=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e287dec740fce5f3680c0a16faf100aeb266575
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad4d1c7a4a9dc2418493853ce560583c34e376d4\\classes.dex
+base.1=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad4d1c7a4a9dc2418493853ce560583c34e376d4
+file.0=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e287dec740fce5f3680c0a16faf100aeb266575\\classes.dex

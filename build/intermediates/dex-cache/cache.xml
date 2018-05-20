@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ecd19b7c3c14d36400131de7dcfecc43ea48bdc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_ecd19b7c3c14d36400131de7dcfecc43ea48bdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_4c951236fd2f618da9a057d4b51e5bd2700fdce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_9d4a53ede1c1a1f53ef8daeb62b5d43b91b5f9c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d4a53ede1c1a1f53ef8daeb62b5d43b91b5f9c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_5df300e59613d2835bf856a93eb77dfb6e9a2c7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c951236fd2f618da9a057d4b51e5bd2700fdce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69cf5c34ded7e905d02e7aa861156c4213789397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5df300e59613d2835bf856a93eb77dfb6e9a2c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_69cf5c34ded7e905d02e7aa861156c4213789397.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5195f195ff10be0ebd0a061cd8450e639df3bd53">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad4d1c7a4a9dc2418493853ce560583c34e376d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_546c5307872c0baa6ddc1c6b2b3e3e3de8d0c264\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\1ad0129f1e4d590b86faeed0f9905d1ff1b70486\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_0d3a298f7b4fd3cbbf3f68ab06ad26b15ee16629.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e287dec740fce5f3680c0a16faf100aeb266575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yottabyte\.android\build-cache\1ad0129f1e4d590b86faeed0f9905d1ff1b70486\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d3a298f7b4fd3cbbf3f68ab06ad26b15ee16629\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\build\intermediates\pre-dexed\debug\classes_546c5307872c0baa6ddc1c6b2b3e3e3de8d0c264.jar" />
+    </item>
+
+</items>

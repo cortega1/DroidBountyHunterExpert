@@ -1,0 +1,4 @@
+#Sun May 20 13:22:59 CDT 2018
+base.0=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Yottabyte\\Documents\\Android\\DroidBountyHunterExpert-lab05-implementacion_servicio\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

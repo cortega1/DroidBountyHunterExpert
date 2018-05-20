@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_agregar"
+        android:orderInCategory="100"
+        android:title="@string/menu_agregar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_logeliminacion"
+        android:orderInCategory="100"
+        android:title="Logs de Eliminacion"
+        app:showAsAction="never" />
+</menu>

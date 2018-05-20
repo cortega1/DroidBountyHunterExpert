@@ -1,0 +1,337 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:12:19-57
+application
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:14:5-75:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yottabyte\.android\build-cache\97551056cf0f340574724793aa914c2107c365d8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Yottabyte\.android\build-cache\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\1b690db7b4687c1e40537960d88d3e0abeadcbd7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\f5afaf860f8f82a3a35f63c764a892858b9aacef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Yottabyte\.android\build-cache\ee78f61f015c614ee783d07443474f7938828dcd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:9.2.0] C:\Users\Yottabyte\.android\build-cache\1b60b52a460248fa7b2b80d5531b6608ce026c7c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\Yottabyte\.android\build-cache\1ad0129f1e4d590b86faeed0f9905d1ff1b70486\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Yottabyte\.android\build-cache\87b0a4f071ed7c28ce52a4ab36b039e6a3e667fb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yottabyte\.android\build-cache\65625a6a73bc695cba0f1eab570d092e2378da5c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\b34b712b129aed19ce6eebd83cff69a32c61df7d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yottabyte\.android\build-cache\1c1df71ca964e1885da5d664f2369a0a02a3fc6e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yottabyte\.android\build-cache\27f8d4a3a67eca760079a939058a757993b191f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\cedd01ae5c8c6c9e1be5dbfb4cfc56f953579715\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:20:9-40
+activity#training.edu.droidbountyhunter.Home
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:22:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:28:27-74
+activity#training.edu.droidbountyhunter.Agregar
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:31:9-33:62
+	android:label
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:32:13-36
+activity#training.edu.droidbountyhunter.Detalle
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:34:9-36:62
+	android:label
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:35:13-36
+activity#training.edu.droidbountyhunter.LogEliminacion
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:37:9-52
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:37:19-49
+activity#training.edu.droidbountyhunter.DetalleLogEliminacion
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:38:19-56
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:authorities
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:42:13-60
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:44:13-47
+	android:exported
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:41:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:45:13-47:58
+	android:resource
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:46:17-67
+service#training.edu.services.ServicioNotificaciones
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:50:9-80
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:50:18-77
+receiver#training.edu.droidbountyhunter.Receiver
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:52:19-43
+intent-filter#ANDROID.INTENT.CATEGORY.HOME+android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:54:25-76
+category#ANDROID.INTENT.CATEGORY.HOME
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:56:17-73
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:56:27-70
+service#training.edu.services.FirebaseNotificationService
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:60:9-64:19
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:60:18-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:61:13-63:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:62:25-75
+service#training.edu.services.FirebaseIdService
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:65:9-69:19
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:65:18-72
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:66:13-68:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:67:17-80
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:67:25-77
+activity#training.edu.droidbountyhunter.ActivityOpenGLFugitivos
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:71:9-61
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:71:19-58
+provider#training.edu.droidbountyhunter.FugitivosContentProvider
+ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:73:9-74:79
+	android:authorities
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:73:19-71
+	android:exported
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:74:54-77
+	android:name
+		ADDED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml:74:13-53
+uses-sdk
+INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yottabyte\.android\build-cache\97551056cf0f340574724793aa914c2107c365d8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Yottabyte\.android\build-cache\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\1b690db7b4687c1e40537960d88d3e0abeadcbd7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\f5afaf860f8f82a3a35f63c764a892858b9aacef\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Yottabyte\.android\build-cache\5ee29cfac8e14063687d1b8b5e8f71b75c8b2376\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Yottabyte\.android\build-cache\ee78f61f015c614ee783d07443474f7938828dcd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:9.2.0] C:\Users\Yottabyte\.android\build-cache\1b60b52a460248fa7b2b80d5531b6608ce026c7c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\Yottabyte\.android\build-cache\1ad0129f1e4d590b86faeed0f9905d1ff1b70486\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Yottabyte\.android\build-cache\87b0a4f071ed7c28ce52a4ab36b039e6a3e667fb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yottabyte\.android\build-cache\65625a6a73bc695cba0f1eab570d092e2378da5c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\b34b712b129aed19ce6eebd83cff69a32c61df7d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yottabyte\.android\build-cache\1c1df71ca964e1885da5d664f2369a0a02a3fc6e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yottabyte\.android\build-cache\27f8d4a3a67eca760079a939058a757993b191f7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\cedd01ae5c8c6c9e1be5dbfb4cfc56f953579715\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yottabyte\Documents\Android\DroidBountyHunterExpert-lab05-implementacion_servicio\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Yottabyte\.android\build-cache\6b11a3f7ec1b3dc5a475ff6da27ea815e7f5a303\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\1b690db7b4687c1e40537960d88d3e0abeadcbd7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Yottabyte\.android\build-cache\f5afaf860f8f82a3a35f63c764a892858b9aacef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Yottabyte\.android\build-cache\5ee29cfac8e14063687d1b8b5e8f71b75c8b2376\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Yottabyte\.android\build-cache\ee78f61f015c614ee783d07443474f7938828dcd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Yottabyte\.android\build-cache\87b0a4f071ed7c28ce52a4ab36b039e6a3e667fb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yottabyte\.android\build-cache\65625a6a73bc695cba0f1eab570d092e2378da5c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\b34b712b129aed19ce6eebd83cff69a32c61df7d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yottabyte\.android\build-cache\1c1df71ca964e1885da5d664f2369a0a02a3fc6e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yottabyte\.android\build-cache\27f8d4a3a67eca760079a939058a757993b191f7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yottabyte\.android\build-cache\cedd01ae5c8c6c9e1be5dbfb4cfc56f953579715\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Yottabyte\.android\build-cache\2e749c8015aad55983ca422559c2f7a565254c46\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\Yottabyte\.android\build-cache\f6b8574bd3d5cea3580f10fd8bf1ea4b1e4c7b71\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\Yottabyte\.android\build-cache\74a87c614edf37b83cba6656bd63acaba52135d0\output\AndroidManifest.xml:37:11-82
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\Yottabyte\.android\build-cache\e86af000b59d71a459a3802b0b8179df815bafd9\output\AndroidManifest.xml:25:13-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\Yottabyte\.android\build-cache\42ce3eb08d163f7ea49e3090d444f7a9daecfac2\output\AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\Yottabyte\.android\build-cache\5f19853c71469f1984a3f891fbaf557dc2649e70\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\Yottabyte\.android\build-cache\2c41febc7904a3cde527b710e5a691afaf7b8f40\output\AndroidManifest.xml:22:13-58
